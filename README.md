@@ -24,3 +24,4 @@ o Line Chart between any two reasonable fields [on the second page].
 10. Apply a slicer on the second page.
 11. Create a measure NOT a quick measure using the SUM function that calculates the total of any numeric column with a meaningful measure name and uses it in any new Chart.
 12. Save your final report on your machine (PDF)
+![Screenshot 2022-06-18 100954](https://user-images.githubusercontent.com/58761388/174429015-aca98c75-6729-43b2-a6ad-c0f8bd229635.png)
